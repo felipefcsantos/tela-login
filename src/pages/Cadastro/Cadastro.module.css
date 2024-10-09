@@ -1,0 +1,9 @@
+.btn_voltar{
+    cursor: pointer;
+    text-align: left;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}

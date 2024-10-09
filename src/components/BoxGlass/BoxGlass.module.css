@@ -1,0 +1,16 @@
+.container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+    color: white;
+    min-width: 20rem;
+    padding: 40px;
+    text-align: center;
+}
