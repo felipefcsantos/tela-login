@@ -1,9 +1,0 @@
-.App {
-  background-image: url('./assets/background.gif');
-  background-repeat: no-repeat;
-  background-size: cover;
-  display: flex;
-  justify-content: center;
-  height: 100vh;
-  text-align: center;
-}
